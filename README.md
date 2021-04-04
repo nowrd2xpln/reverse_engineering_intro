@@ -15,8 +15,8 @@ Now What?
 3. Tools
 
 4. The process
-   a.Component Identification
-   b.BOM
+   a. Component Identification
+   b. BOM
 
 5. Done?
 
